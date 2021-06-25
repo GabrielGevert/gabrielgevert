@@ -12,15 +12,15 @@
 ##### ⚙ Languages I use: 
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoWidth=20)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoWidth=20&logoColor=blue)
-![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vuedotjs&logoWidth=20)
-![PhP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoWidth=20)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoWidth=20)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoWidth=20)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoWidth=20)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoWidth=20)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoWidth=20&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoWidth=30)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoWidth=30&logoColor=blue)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vuedotjs&logoWidth=30)
+![PhP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoWidth=30)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoWidth=30)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoWidth=30)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoWidth=30)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoWidth=30)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoWidth=30&logoColor=blue)
 
 
 ##### ✨ Extras:
