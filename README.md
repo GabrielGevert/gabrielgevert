@@ -1,16 +1,16 @@
 ##### Hi, I'm Gabriel:
 
 - 📚 I'm studying Information Systems (4rd semester) at PUCPR, an university from Paraná, Brazil.
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
+- 🎯 Trying to be my best version!
 - 🪐 Looking for conquer the world
 - :mailbox: You can reach me with the links below:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style&logo=gmail&logoColor=white)](mailto:gevertlolz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgevert/)
 
 ##### Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C](https://img.shields.io/badge/-C-000000?style=&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
