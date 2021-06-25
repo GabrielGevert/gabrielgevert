@@ -14,7 +14,6 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoWidth=20)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoWidth=20&logoColor=blue)
-![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vuedotjs&logoWidth=20)
 ![PhP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoWidth=20)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoWidth=20)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoWidth=20)
@@ -38,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717&logoWidth=20)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624&logoWidth=20)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933&logoWidth=20)
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vuedotjs&logoWidth=20)
 
 
 
