@@ -5,7 +5,7 @@
 - 🪐 Looking for conquer the world
 - :mailbox: You can reach me with the links below:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gevertlolz@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style&logo=gmail&logoColor=white)](mailto:gevertlolz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 
 ##### Languages I use
