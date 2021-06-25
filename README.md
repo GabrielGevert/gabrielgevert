@@ -8,7 +8,9 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style&logo=gmail&logoColor=white)](mailto:gevertlolz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgevert/)
 
+
 ##### ⚙ Languages I use: 
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoWidth=20)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoWidth=20&logoColor=blue)
@@ -20,13 +22,17 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoWidth=20)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoWidth=20)
 
+
 ##### ✨ Extras:
+
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat&logo=adobephotoshop&logoWidth=20)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoWidth=20)
 ![MicrosoftOffice](https://img.shields.io/badge/-Office-000000?style=flat&logo=microsoftoffice&logoWidth=20)
 
+
 ##### ➕ Some of the technologies I have worked with:
+
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032&logoWidth=20)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717&logoWidth=20)
@@ -34,13 +40,17 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933&logoWidth=20)
 
 
+
 ##### 💥 My 3 favorite languages:
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5&logoWidth=20&logoColor=FCC624)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=CSS3&logoWidth=20&logoColor=FCC624)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoWidth=20&logoColor=FCC624)
 
-##### ⭐ Fun fact: I once solved the world's oldest question with a single line of JavaScript
+
+
+##### ⭐ Fun fact: I solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
 ```javascript
