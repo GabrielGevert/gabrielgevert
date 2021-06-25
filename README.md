@@ -1,9 +1,9 @@
 ##### Hi, I'm Gabriel:
 
-- 📚 I'm studying Information Systems (4rd semester) at PUCPR, an university from Paraná, Brazil.
+- 📚 I'm studying Systems Information (4rd semester) at PUCPR, an university from Paraná, Brazil.
 - 🎯 Trying to be my best version!
-- 🪐 Looking for conquer the world
-- :mailbox: You can reach me with the links below:
+- 🪐 Aiming to conquer the world 
+- :mailbox: You can reach me through the links below:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style&logo=gmail&logoColor=white)](mailto:gevertlolz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgevert/)
