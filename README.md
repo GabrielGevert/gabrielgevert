@@ -18,6 +18,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoWidth=20)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoWidth=20)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoWidth=20)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoWidth=20)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoWidth=20)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoWidth=20&logoColor=blue)
 
