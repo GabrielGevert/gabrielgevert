@@ -1,6 +1,6 @@
 ##### Hi, I'm Gabriel:
 
-- 📚 I'm studying Systems Information (7rd semester) at PUCPR, an university from Paraná, Brazil.
+- 📚 I'm studying Systems Information (7th semester) at PUCPR, an university from Paraná, Brazil.
 - 🎯 Trying to be my best version!
 - 🪐 Aiming to conquer the world 
 - :mailbox: You can reach me through the links below:
