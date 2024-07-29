@@ -28,8 +28,8 @@
 
 
 ##### ✨ Extras:
-![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=git&logoWidth=20)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoWidth=20&logoColor=blue)
+![GIT](https://img.shields.io/badge/-GIT-222222?style=flat&logo=git&logoWidth=20)
+![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=mysql&logoWidth=20&logoColor=blue)
 
 
 ##### ➕ Some of the technologies I have worked with:
