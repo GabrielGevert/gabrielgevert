@@ -42,9 +42,9 @@
 
 ##### 💥 My 3 favorite languages:
 
-![Next](https://img.shields.io/badge/Next-222222?style=flat&logo=next.js&logoWidth=20logoColor=FCC624)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoWidth=20logoColor=FCC624)
-![TypeScript](https://img.shields.io/badge/Typescript-222222?style=flat&logo=typescript&logoWidth=20logoColor=FCC624)
+![Next](https://img.shields.io/badge/Next-222222?style=flat&logo=next.js&logoWidth=20&logoColor=FCC624)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoWidth=20&logoColor=FCC624)
+![TypeScript](https://img.shields.io/badge/Typescript-222222?style=flat&logo=typescript&logoWidth=20&logoColor=FCC624)
 
 
 ##### ⭐ Fun fact: I solved the world's oldest question with a single line of JavaScript
