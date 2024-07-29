@@ -34,7 +34,7 @@
 
 ##### ➕ Some of the technologies I have worked with:
 
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624&logoWidth=20)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoWidth=20)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933&logoWidth=20)
 
 
