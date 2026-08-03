@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=Gabriel%20Gevert&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AWS%20Specialist&descSize=18&descAlignY=58" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=Gabriel%20Gevert&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20AWS%20Specialist&descSize=18&descAlignY=58" alt="header banner" />
 </p>
 
 <p align="center">
   <a href="https://gabrielgevert.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=620&lines=Full+Stack+%26+Cloud+Developer;AWS+Specialist;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+AWS+Amplify" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=620&lines=Full+Stack+%26+Cloud+Developer;AI+Engineer+%E2%80%A2+Agents+%E2%80%A2+RAG+%E2%80%A2+LLMs;AWS+Specialist;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+AWS+Amplify" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,19 +18,20 @@
 
 ### 👨‍💻 About me
 
-Full Stack & Cloud Developer based in Curitiba, Brazil, building software end to end since 2020, from front-end to back-end and cloud infrastructure. My specialty is the **AWS** ecosystem, with a strong focus on **AWS Amplify (Gen 2)**, designing serverless, scalable and production grade applications. I also work daily with **React, Next.js, Node.js and TypeScript**, and build with **AI (RAG, agents)**, **mobile (Flutter)** and **games (Unity)**.
+Full Stack Developer & AI Engineer based in Curitiba, Brazil, building software end to end since 2020, from front-end to back-end and cloud infrastructure. My specialty is the **AWS** ecosystem, with a strong focus on **AWS Amplify (Gen 2)**, designing serverless, scalable and production grade applications. I work daily with **React, Next.js, Node.js and TypeScript**, and today a big part of my work is **AI engineering**: agent orchestration, RAG, semantic search and knowledge graphs running in production. I also build **mobile (Flutter)** and **games (Unity)**.
 
 - 🎓 Bachelor's degree in Information Systems at **PUCPR**
+- 🤖 **AI Engineer in production**: agent orchestration, RAG, semantic search, prompt engineering, **Claude** and **Gemini** APIs, **Neo4j** knowledge graphs and vector databases
 - ☁️ **AWS Amplify specialist**: Lambda, AppSync, DynamoDB, Cognito, S3, EventBridge, CloudFormation, CloudFront
 - 🌎 Contributed to projects for global brands like **Coca-Cola** and **McKinsey**, plus high impact national projects such as a body worn camera platform for Rio de Janeiro's police force
-- 🚀 Two of my own products live in production: **Inefavel Academy** and **Coach Guaxi**
+- 🚀 Two of my own products live in production: **Protocolo Academy** and **Coach Guaxi**
 - 💬 Portuguese (native) and English (intermediate, conversational: comfortable discussing topics I know well)
 
 ---
 
 ### 🚀 Where I work
 
-- **SAMPI** · Full Stack Developer on an AI marketing platform: AI agent orchestration, knowledge base with RAG and semantic search (Neo4j), video processing, integrations with social media APIs and AI models (Claude and Gemini), Node.js backend on Google Cloud Run with Redis and security layers (rate limiting, CAPTCHA, JWT)
+- **SAMPI** · Full Stack Developer & AI Engineer on an AI marketing platform: AI agent orchestration, knowledge base with RAG and semantic search (Neo4j), video processing, integrations with social media APIs and AI models (Claude and Gemini), Node.js backend on Google Cloud Run with Redis and security layers (rate limiting, CAPTCHA, JWT)
 - **Form&Fun Studio** · Full Stack & Game Developer: immersive web, AR/VR, games and web3 experiences for global clients, across the full AWS stack (EC2, S3, RDS, Lambda, ECS, CloudFront, CodePipeline)
 - **L8 Group** · Full Stack Developer: tailored web applications focused on performance and scalability
 
@@ -40,10 +41,10 @@ Full Stack & Cloud Developer based in Curitiba, Brazil, building software end to
 
 > Built and maintained by me, end to end, and serving real users today.
 
-#### ⭐ [Inefavel Academy](https://www.inefavelacademy.com) · my flagship project
+#### ⭐ [Protocolo Academy](https://www.protocoloacademy.com) · my flagship project
 
 <p align="center">
-  <a href="https://www.inefavelacademy.com"><img src="https://gabrielgevert.github.io/portfolio/inefavel.png" width="540" alt="Inefavel Academy" /></a>
+  <a href="https://www.protocoloacademy.com"><img src="https://gabrielgevert.github.io/portfolio/protocolo.png" width="540" alt="Protocolo Academy" /></a>
 </p>
 
 League of Legends courses and coaching platform running in production with **1,000+ sales**, built end to end on **AWS Amplify (Gen 2)** with a serverless architecture of **70+ Lambda functions**. Robustness is the whole point here:
@@ -80,6 +81,14 @@ League of Legends coaching platform with class scheduling and **Asaas** payments
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**🤖 AI & LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%E2%80%A2_Semantic_Search-5A4FCF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-16161F?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Knowledge_Graphs-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 
 **⚙️ Back-end**
 
