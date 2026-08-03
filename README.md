@@ -24,6 +24,7 @@ Full Stack Developer & AI Engineer based in Curitiba, Brazil, building software 
 - 🤖 **AI Engineer in production**: agent orchestration, RAG, semantic search, prompt engineering, **Claude** and **Gemini** APIs, **Neo4j** knowledge graphs and vector databases
 - ☁️ **AWS Amplify specialist**: Lambda, AppSync, DynamoDB, Cognito, S3, EventBridge, CloudFormation, CloudFront
 - 🌎 Contributed to projects for global brands like **Coca-Cola** and **McKinsey**, plus high impact national projects such as a body worn camera platform for Rio de Janeiro's police force
+- 🏆 **Gold at Cannes Lions 2026** (Social & Creator Lions) with **Chicken Screams for Coke** (Coca-Cola), a project I actively helped develop
 - 🚀 Two of my own products live in production: **Protocolo Academy** and **Coach Guaxi**
 - 💬 Portuguese (native) and English (intermediate, conversational: comfortable discussing topics I know well)
 
@@ -117,11 +118,6 @@ League of Legends coaching platform with class scheduling and **Asaas** payments
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielGevert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGevert&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GabrielGevert&theme=tokyonight&hide_border=true" alt="GitHub streak" />
